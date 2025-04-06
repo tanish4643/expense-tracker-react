@@ -2,8 +2,6 @@
 
 Simple income/expense tracker app web frontend built with React and 💕
 
-This is the Expense Tracker Web frontend for [Expense Tracker 💰 Lumen](https://github.com/rahulhaque/expense-tracker-lumen) backend. You can find the backend repo and API documentation in the above link.
-
 ## Features
 Basic features include -
 
@@ -22,16 +20,6 @@ Basic features include -
 - Category Wise Income Expense Chart
 - Responsive UI
 
-## Install Instruction
-
-- At first download or clone [Expense Tracker 💰 Lumen](https://github.com/rahulhaque/expense-tracker-lumen) backend. Setup and configure the backend. Click the link for detail.
-- Considering the backend is up and running, now download or clone this repo.
-- Open terminal and `cd` into the directory.
-- Run `npm i` to install the dependencies.
-- Copy and save `.env.example` file as `.env`. Set API host in the `.env` file if necessary.
-- Finally run the app with `npm start`.
-- The app should be running at `http://localhost:3000`
-
 ## Technology Used
 
 Some libraries used that deserves mentioning.
@@ -45,19 +33,19 @@ Additionally I have added a custom template in the `extra` folder. The template 
 
 ## Screenshots
 1. Landing
-<img title="Landing" src="https://github.com/rahulhaque/expense-tracker-react/blob/master/screenshots/screen_1.png" width="100%">
+<img title="Landing" src="https://github.com/tanish4643/expense-tracker-react/blob/master/screenshots/screen_1.png" width="100%">
 2. Login
-<img title="Login" src="https://github.com/rahulhaque/expense-tracker-react/blob/master/screenshots/screen_2.png" width="100%">
+<img title="Login" src="https://github.com/tanish4643/expense-tracker-react/blob/master/screenshots/screen_2.png" width="100%">
 3. Dashboard
-<img title="Dashboard" src="https://github.com/rahulhaque/expense-tracker-react/blob/master/screenshots/screen_3.png" width="100%">
+<img title="Dashboard" src="https://github.com/tanish4643/expense-tracker-react/blob/master/screenshots/screen_3.png" width="100%">
 4. Calendar
-<img title="Calendar" src="https://github.com/rahulhaque/expense-tracker-react/blob/master/screenshots/screen_4.png" width="100%">
+<img title="Calendar" src="https://github.com/tanish4643/expense-tracker-react/blob/master/screenshots/screen_4.png" width="100%">
 5. Settings
-<img title="Settings" src="https://github.com/rahulhaque/expense-tracker-react/blob/master/screenshots/screen_5.png" width="100%">
+<img title="Settings" src="https://github.com/tanish4643/expense-tracker-react/blob/master/screenshots/screen_5.png" width="100%">
 6. Tools
-<img title="Tools" src="https://github.com/rahulhaque/expense-tracker-react/blob/master/screenshots/screen_6.png" width="100%">
+<img title="Tools" src="https://github.com/tanish4643/expense-tracker-react/blob/master/screenshots/screen_6.png" width="100%">
 7. Currency
-<img title="Currency" src="https://github.com/rahulhaque/expense-tracker-react/blob/master/screenshots/screen_7.png" width="100%">
+<img title="Currency" src="https://github.com/tanish4643/expense-tracker-react/blob/master/screenshots/screen_7.png" width="100%">
 
 ## More Info
 
