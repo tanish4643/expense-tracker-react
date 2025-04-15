@@ -63,12 +63,14 @@ const Income = (props) => {
           type: "income",
           name: data.category
         },
-        date: dayjs(data.date).format('YYYY-MM-DD HH:mm:ss')
+        date: dayjs(data.date).format('YYYY-MM-DD')
       };
     }
     catch(e){
       console.log(e);
     }
+
+    console.log(data);
 
     axios.post(incomeApiEndpoints.income, JSON.stringify(data))
       .then(response => {
