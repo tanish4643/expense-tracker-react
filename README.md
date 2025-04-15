@@ -1,9 +1,5 @@
 # Expense Tracker React
 
-## Login Credentials
-username: tanish123
-password: test123
-
 ## Design Approach
 Admin style Dashboard design with sidebar having options allowing user to:
 1. Analyze Finance using D3j Charts
